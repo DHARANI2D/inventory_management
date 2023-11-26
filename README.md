@@ -1,8 +1,9 @@
-# Stock Management System
+# IN.MAN
+#Stock Management System
 
 ## Live Demo
 
-Check out our live demo (#your-live-demo-link).
+Check out our live demo(#your-live-demo-link).
 
 ## Introduction
 
@@ -75,11 +76,3 @@ Welcome to the Stock Management System, a web application developed for efficien
 
 - **Responsive Design:**
   - Application is responsive across various devices.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-Special thanks to the contributors who made this project possible.
