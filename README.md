@@ -3,7 +3,7 @@
 
 ## Live Demo
 
-Check out our live demo(#your-live-demo-link).
+Check out our live demo.
 
 ## Introduction
 
