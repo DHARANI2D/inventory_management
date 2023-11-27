@@ -19,8 +19,7 @@ Welcome to the Stock Management System, a web application developed for efficien
 #### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stock-management-system.git
-
+   git clone https://github.com/DHARANI2D/inventory_management
 ### Features
 
 #### User Authentication
