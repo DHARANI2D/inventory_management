@@ -1,78 +1,96 @@
-# IN.MAN
-#Stock Management System
+IN.MAN
 
-## Live Demo
+Stock Management System
+
+Live Demo
 
 Check out our live demo.
 
-## Introduction
+Introduction
 
 Welcome to the Stock Management System, a web application developed for efficient stock inventory management. This application is designed to provide a user-friendly interface for managing products, tracking inventory, generating reports, and more.
 
-## Getting Started
+Getting Started
 
-### Prerequisites
+Prerequisites
+Node.js
+npm
+Installation
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/your-username/stock-management-system.git
+Navigate to the project directory:
+bash
+Copy code
+cd stock-management-system
+Install dependencies:
+bash
+Copy code
+npm install
+Start the development server:
+bash
+Copy code
+npm start
+Open your browser and go to http://localhost:3000 to view the application.
+Features
 
-- Node.js
-- npm
+User Authentication:
+User registration and login functionality.
+Secure user accounts with data privacy.
+Dashboard:
+Intuitive dashboard displaying critical information.
+Stock summaries, alerts, and trends.
+Product Management:
+CRUD operations for products.
+Category management.
+Inventory Tracking:
+Historical stock data.
+Reporting:
+Data visualization and reporting components.
+Notifications:
+Customizable notification settings.
+Responsive Design:
+Application is responsive across various devices.
+Screenshots
 
-### Installation
+Login
+<img width="1440" alt="Screenshot 2023-11-27 at 6 39 10 PM" src="https://github.com/DHARANI2D/inventory_management/assets/99940501/0e8fbcb6-5794-4fa4-813f-d5f7446d4058">
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/stock-management-system.git
-   ```
+The login page allows users to securely access the system with their credentials.
 
-2. Navigate to the project directory:
-   ```bash
-   cd stock-management-system
-   ```
+Dashboard
+<img width="1440" alt="Screenshot 2023-11-27 at 6 39 16 PM" src="https://github.com/DHARANI2D/inventory_management/assets/99940501/d4bf7836-0e04-4548-be4b-7b7032a905d2">
 
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
+The dashboard provides an overview of critical information, including stock summaries, alerts, and trends.
 
-4. Start the development server:
-   ```bash
-   npm start
-   ```
+Inventory
+<img width="1440" alt="Screenshot 2023-11-27 at 6 39 23 PM" src="https://github.com/DHARANI2D/inventory_management/assets/99940501/5523d9df-fb29-4e9e-b4c9-43775d15b086">
 
-5. Open your browser and go to [http://localhost:3000](http://localhost:3000) to view the application.
+Efficiently manage and track inventory with real-time updates, historical data, and alerts for low stock or out-of-stock items.
 
-## Features
+Purchase Orders
+<img width="1440" alt="Screenshot 2023-11-27 at 6 39 30 PM" src="https://github.com/DHARANI2D/inventory_management/assets/99940501/546e996c-bc60-412b-a91f-92fd1df67eac">
 
-- **User Authentication:**
-  - User registration and login functionality.
-  - Secure user accounts with data privacy.
+Create, track, and manage purchase orders seamlessly within the system.
 
-- **Dashboard:**
-  - Intuitive dashboard displaying critical information.
-  - Stock summaries, alerts, and trends.
+Customer Management
+<img width="1440" alt="Screenshot 2023-11-27 at 6 39 36 PM" src="https://github.com/DHARANI2D/inventory_management/assets/99940501/332f15a7-3078-40ef-ac03-8ef0d333c463">
 
-- **Product Management:**
-  - CRUD operations for products.
-  - Category management.
+Manage customer information and interactions to enhance customer relationships.
 
-- **Inventory Tracking:**
-  - Real-time stock tracking.
-  - Alerts for low stock or out-of-stock items.
-  - Historical stock data.
+Revenue
+<img width="1440" alt="Screenshot 2023-11-27 at 6 39 44 PM" src="https://github.com/DHARANI2D/inventory_management/assets/99940501/df5c320b-a873-458e-867c-63b99c7b26f1">
 
-- **Reporting:**
-  - Data visualization and reporting components.
+Visualize revenue data and track financial performance over time.
 
-- **Search and Filters:**
-  - Product search functionality.
-  - Filters by category, price range, or availability.
+Growth Analysis
+<img width="1440" alt="Screenshot 2023-11-27 at 6 39 51 PM" src="https://github.com/DHARANI2D/inventory_management/assets/99940501/c3bbe9fa-8fed-4dd5-a644-ed4c33319f4c">
 
-- **Notifications:**
-  - Customizable notification settings.
-  - Email alerts for critical stock events.
+Analyze business growth with insightful data visualizations and trend analysis.
 
-- **User Roles and Permissions:**
-  - Admin, manager, and staff roles.
-  - Permissions based on roles.
+Reports
+<img width="1440" alt="Screenshot 2023-11-27 at 6 39 57 PM" src="https://github.com/DHARANI2D/inventory_management/assets/99940501/78cbb79a-4b0a-4c70-9a74-2fef777d8b2f">
 
-- **Responsive Design:**
-  - Application is responsive across various devices.
+Generate detailed reports with customizable parameters for better decision-making.
+
